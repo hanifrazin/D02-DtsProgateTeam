@@ -1,0 +1,186 @@
+
+@media all and (max-width: 1000px) {
+
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+
+  .btn {
+    width: 100%;
+  }
+  .btn-primary {
+    width: 100%;
+  }
+
+  .contact-form{
+    width:100%;
+  }
+  
+  .contents-team{
+    width: 30%;
+    padding: 20px 20px;
+    margin: 0px 50px;
+  }
+
+  .contents{
+    padding: 50px 80px;
+    margin-bottom: 45px;
+  }
+
+  #featuress{
+    height: 520px;
+  }
+
+  .feature h2{
+    font-size: 30px;
+    padding:25px 0 40px;
+  }
+
+  .heading{
+    padding-top: 30px;
+  }
+
+  .heading h2{
+    font-size: 30px;
+  }
+
+  .column{
+    width:33.33%;
+    display: inline-block;
+  }
+
+  #hardian-card{
+    clear: left;
+  }
+
+  #about{
+    padding:0px 50px;
+  }
+
+  .lesson{
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  .contact-form input, .subscribe{
+    width: 50%;
+    display: block;
+    margin-left: 115px;
+    margin-right: 115px;
+  }
+
+  .center {
+    display: block;
+    
+  }
+
+  .contact-message{
+    width: 100%;
+  }
+
+  .menu-icon{
+    display:none;
+  }
+}
+
+@media all and (max-width: 670px) {
+  .btn {
+    width: 100%;
+  }
+  .btn-primary {
+    width: 100%;
+  }
+
+  .contact-form{
+    width:50%;
+  }
+  .top-wrapper h1,h2{
+    text-align: center;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: justify;
+  }
+
+  #featuress{
+    height: 1000px;
+  }
+
+  .feature h2{
+    font-size: 30px;
+    padding:25px 0 40px;
+  }
+
+  .heading{
+    padding-top: 30px;
+  }
+
+  .heading h2{
+    font-size: 30px;
+  }
+
+  .lesson{
+    width: 100%;
+  }
+
+  .contact-form input, .subscribe{
+    width: 100%;
+    display: block;
+    margin-left: 20px;
+  }
+
+  .contents{
+    padding: 50px 85px;
+    margin-bottom: 45px;
+  }
+
+  .contents-team{
+    width: 100%;
+    padding: 20px 0;
+    margin-left: -15px;
+  }
+
+  .center {
+    display: block;
+    
+  }
+
+  .column{
+    width:100%;
+    display: inline-block;
+  }
+
+
+  #about{
+    padding:0px 30px;
+  }
+
+  .contact-me h3{
+    font-size: 10px;
+  }
+
+  .contact-me input{
+    width: 100%;
+  }
+
+  .menu-icon{
+    float: right;
+    display:block;
+    margin-right: 5px;    
+  }
+
+  /* .fa{
+    margin-right: 5px;
+  } */
+
+  .header-right {
+    display: none;
+  }
+}
